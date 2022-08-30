@@ -35,6 +35,11 @@ DB_DATABASE=**your_db_name**
 DB_USERNAME=**your_db_user**
 DB_PASSWORD=**password**
 ```
+Modified 
+vendor/crocodicstudio/crudbooster/src/database/seeds/CBSeeder.php
+```
+namespace Database\Seeders;
+```
 
 3. Run the following command at the terminal
 ```php
